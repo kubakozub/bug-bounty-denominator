@@ -1,0 +1,135 @@
+{
+ "snapshot": "2026-10-24",
+ "total": 310,
+ "closed": 232,
+ "open": 78,
+ "paid": 8,
+ "states": {
+  "resolved": 7,
+  "not-applicable": 14,
+  "duplicate": 174,
+  "triaged": 20,
+  "informative": 37,
+  "new": 21,
+  "pending-program-review": 35,
+  "editing": 2
+ },
+ "per_program_closed_only": [
+  {
+   "program": "common_codes",
+   "closed_reports": 5,
+   "bounties": 0,
+   "duplicate_pct": 60.0,
+   "informative_pct": 40.0,
+   "resolved": 0,
+   "not_applicable": 0
+  },
+  {
+   "program": "mozilla",
+   "closed_reports": 7,
+   "bounties": 0,
+   "duplicate_pct": 71.4,
+   "informative_pct": 14.3,
+   "resolved": 0,
+   "not_applicable": 1
+  },
+  {
+   "program": "mongodb",
+   "closed_reports": 71,
+   "bounties": 0,
+   "duplicate_pct": 71.8,
+   "informative_pct": 25.4,
+   "resolved": 0,
+   "not_applicable": 2
+  },
+  {
+   "program": "wordpress",
+   "closed_reports": 57,
+   "bounties": 6,
+   "duplicate_pct": 73.7,
+   "informative_pct": 3.5,
+   "resolved": 6,
+   "not_applicable": 7
+  },
+  {
+   "program": "nextcloud",
+   "closed_reports": 8,
+   "bounties": 0,
+   "duplicate_pct": 75.0,
+   "informative_pct": 0.0,
+   "resolved": 1,
+   "not_applicable": 1
+  },
+  {
+   "program": "vercel",
+   "closed_reports": 8,
+   "bounties": 0,
+   "duplicate_pct": 75.0,
+   "informative_pct": 25.0,
+   "resolved": 0,
+   "not_applicable": 0
+  },
+  {
+   "program": "zabbix",
+   "closed_reports": 10,
+   "bounties": 0,
+   "duplicate_pct": 90.0,
+   "informative_pct": 0.0,
+   "resolved": 0,
+   "not_applicable": 1
+  },
+  {
+   "program": "gitlab",
+   "closed_reports": 19,
+   "bounties": 0,
+   "duplicate_pct": 94.7,
+   "informative_pct": 5.3,
+   "resolved": 0,
+   "not_applicable": 0
+  },
+  {
+   "program": "elastic",
+   "closed_reports": 15,
+   "bounties": 0,
+   "duplicate_pct": 100.0,
+   "informative_pct": 0.0,
+   "resolved": 0,
+   "not_applicable": 0
+  },
+  {
+   "program": "spotify",
+   "closed_reports": 5,
+   "bounties": 0,
+   "duplicate_pct": 100.0,
+   "informative_pct": 0.0,
+   "resolved": 0,
+   "not_applicable": 0
+  }
+ ],
+ "by_month": {
+  "2026-07": 7,
+  "2026-08": 67,
+  "2026-09": 114,
+  "2026-10": 120
+ },
+ "paid_by_month": {
+  "2026-07": 3,
+  "2026-08": 3,
+  "2026-09": 2
+ },
+ "days_to_close": {
+  "n": 232,
+  "median": 0,
+  "max": 88
+ },
+ "days_to_bounty": [
+  1,
+  1,
+  2,
+  7,
+  7,
+  11,
+  22,
+  50
+ ]
+}

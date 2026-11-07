@@ -1,0 +1,11 @@
+program,closed_reports,bounties,duplicate_pct,informative_pct,resolved,not_applicable
+common_codes,5,0,60.0,40.0,0,0
+mozilla,7,0,71.4,14.3,0,1
+mongodb,71,0,71.8,25.4,0,2
+wordpress,57,6,73.7,3.5,6,7
+nextcloud,8,0,75.0,0.0,1,1
+vercel,8,0,75.0,25.0,0,0
+zabbix,10,0,90.0,0.0,0,1
+gitlab,19,0,94.7,5.3,0,0
+elastic,15,0,100.0,0.0,0,0
+spotify,5,0,100.0,0.0,0,0
